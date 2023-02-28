@@ -1,1 +1,1 @@
-## Projeto de estudo criado para aprimorar as minhas abilidades, com o curso HTML/CSS
+## Projeto de estudo criado para aprimorar as minhas habilidades, com o curso HTML/CSS
